@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-24" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="UN7oF8r0QxY81td0GTep-24" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;KEGG&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;通路分析&lt;/span&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="390" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
