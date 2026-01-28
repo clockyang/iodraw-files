@@ -89,7 +89,7 @@
           <mxGeometry x="400" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-13" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;机器学习筛选关键代谢物&lt;/span&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="140" y="30" width="80" height="80" as="geometry" />
+          <mxGeometry x="130" y="30" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-13" target="UN7oF8r0QxY81td0GTep-16">
           <mxGeometry relative="1" as="geometry">
