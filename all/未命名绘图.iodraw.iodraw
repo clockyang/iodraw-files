@@ -17,24 +17,6 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry y="120" width="880" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="110" as="sourcePoint" />
-            <mxPoint x="180" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="140" y="70" as="sourcePoint" />
-            <mxPoint x="90" y="70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="90" as="sourcePoint" />
-            <mxPoint x="200" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
