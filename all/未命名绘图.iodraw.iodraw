@@ -14,34 +14,29 @@
             <mxRectangle x="20" y="120" width="880" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-26" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;差异代谢物筛选&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="140" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-2" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Times New Roman&quot;&gt;差异脂质物的筛选&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="266" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
           <mxGeometry y="120" width="880" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-14">
+        <mxCell id="UN7oF8r0QxY81td0GTep-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="348" y="70" as="sourcePoint" />
             <mxPoint x="380" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-14" target="UN7oF8r0QxY81td0GTep-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;机器学习筛选关关键&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;脂质物&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="264" y="30" width="84" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-13" target="UN7oF8r0QxY81td0GTep-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-13" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;机器学习筛选关键代谢物&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="140" y="30" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-13">
+        <mxCell id="UN7oF8r0QxY81td0GTep-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="306" y="110" as="sourcePoint" />
+            <mxPoint x="306" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UN7oF8r0QxY81td0GTep-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" target="UN7oF8r0QxY81td0GTep-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="110" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UN7oF8r0QxY81td0GTep-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="70" as="sourcePoint" />
             <mxPoint x="90" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -51,25 +46,10 @@
         <mxCell id="UN7oF8r0QxY81td0GTep-36" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;机器学习筛选关键代谢物&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="140" y="140" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-38" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;机器学习筛选关关键&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;脂质物&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="264" y="140" width="84" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="UN7oF8r0QxY81td0GTep-2" target="UN7oF8r0QxY81td0GTep-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="dNxyNK7c78bLwvsdeMH5-26" target="UN7oF8r0QxY81td0GTep-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" target="UN7oF8r0QxY81td0GTep-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="326" y="90" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" target="dNxyNK7c78bLwvsdeMH5-26">
+        <mxCell id="UN7oF8r0QxY81td0GTep-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="90" as="sourcePoint" />
+            <mxPoint x="200" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
