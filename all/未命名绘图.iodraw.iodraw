@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-32" value="&#xa;&lt;b&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.5pt; color: black;&quot;&gt;KEGG&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; color: black;&quot;&gt;通路分析&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="420" y="70" width="80" height="30" as="geometry" />
+          <mxGeometry x="390" y="55" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-14" target="UN7oF8r0QxY81td0GTep-32">
           <mxGeometry relative="1" as="geometry">
