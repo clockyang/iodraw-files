@@ -46,7 +46,7 @@
           <mxGeometry x="266" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry x="-10" y="130" width="880" height="440" as="geometry" />
+          <mxGeometry y="120" width="880" height="440" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-14" target="UN7oF8r0QxY81td0GTep-33">
           <mxGeometry relative="1" as="geometry" />
@@ -87,6 +87,9 @@
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-35" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size:10.5pt;&amp;lt;br/&amp;gt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;color:black;&amp;lt;br/&amp;gt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;&amp;lt;br/&amp;gt;layout-grid-mode:line&quot; lang=&quot;EN-US&quot;&gt;KEGG&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:&amp;lt;br/&amp;gt;宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;color:black;mso-ansi-language:EN-US;&amp;lt;br/&amp;gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;layout-grid-mode:line&quot;&gt;通路分析&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fontColor=#000000;rounded=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="30" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UN7oF8r0QxY81td0GTep-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-36" target="UN7oF8r0QxY81td0GTep-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-36" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;机器学习筛选关键代谢物&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="140" y="140" width="80" height="80" as="geometry" />
