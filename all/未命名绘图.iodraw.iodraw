@@ -70,7 +70,7 @@
         <mxCell id="UN7oF8r0QxY81td0GTep-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-14" target="UN7oF8r0QxY81td0GTep-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="UN7oF8r0QxY81td0GTep-14" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;机器学习筛选关键代谢物&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;脂质物&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="264" y="30" width="84" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-16" target="UN7oF8r0QxY81td0GTep-19">
@@ -88,7 +88,7 @@
         <mxCell id="UN7oF8r0QxY81td0GTep-21" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="400" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-13" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;机器学习筛选关键代谢物&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;脂质物&lt;/span&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="UN7oF8r0QxY81td0GTep-13" value="&lt;b&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;机器学习筛选关键代谢物&lt;/span&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="140" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-13" target="UN7oF8r0QxY81td0GTep-16">
