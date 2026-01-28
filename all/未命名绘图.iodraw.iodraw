@@ -46,7 +46,7 @@
           <mxGeometry x="266" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
-          <mxGeometry y="120" width="880" height="440" as="geometry" />
+          <mxGeometry x="-10" y="130" width="880" height="440" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-14" target="UN7oF8r0QxY81td0GTep-33">
           <mxGeometry relative="1" as="geometry" />
