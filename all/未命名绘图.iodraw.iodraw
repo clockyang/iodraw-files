@@ -240,6 +240,9 @@
         <mxCell id="UN7oF8r0QxY81td0GTep-81" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="590" width="160" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="UN7oF8r0QxY81td0GTep-82" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="540" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
