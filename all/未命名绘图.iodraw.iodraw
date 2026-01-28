@@ -73,7 +73,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="170" y="210" width="140" height="60" as="geometry" />
+          <mxGeometry x="180" y="240" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-19" target="UN7oF8r0QxY81td0GTep-21">
           <mxGeometry relative="1" as="geometry" />
@@ -86,14 +86,6 @@
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-13" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;机器学习筛选关键代谢物&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="140" y="30" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-13" target="UN7oF8r0QxY81td0GTep-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="160" y="160" />
-              <mxPoint x="240" y="160" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-13">
           <mxGeometry relative="1" as="geometry">
