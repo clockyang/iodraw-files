@@ -40,7 +40,7 @@
           <mxGeometry x="120" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="240" y="50" width="80" height="60" as="geometry" />
+          <mxGeometry x="240" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-22" value="Lane 3" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="240" width="430" height="120" as="geometry" />
