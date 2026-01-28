@@ -97,12 +97,12 @@
             <mxPoint x="90" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="UN7oF8r0QxY81td0GTep-32" value="&#xa;&lt;b&gt;&lt;span lang=&quot;EN-US&quot; style=&quot;font-size: 10.5pt; color: black;&quot;&gt;KEGG&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; color: black;&quot;&gt;通路分析&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+          <mxGeometry x="380" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UN7oF8r0QxY81td0GTep-14" target="UN7oF8r0QxY81td0GTep-32">
+        <mxCell id="UN7oF8r0QxY81td0GTep-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-14" target="UN7oF8r0QxY81td0GTep-32">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="490" as="targetPoint" />
+            <mxPoint x="380" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
