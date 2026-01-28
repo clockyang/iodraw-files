@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-19" value="&#xa;&lt;b&gt;&lt;span style=&quot;font-size:10.5pt;&#xa;font-family:&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;color:black;&#xa;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;&#xa;layout-grid-mode:line&quot; lang=&quot;EN-US&quot;&gt;KEGG&lt;/span&gt;&lt;span style=&quot;font-size:10.5pt;font-family:&#xa;宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&#xa;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;color:black;mso-ansi-language:EN-US;&#xa;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;layout-grid-mode:line&quot;&gt;通路分析&lt;/span&gt;&lt;/b&gt;&#xa;&#xa;&#xa;&#xa;" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="180" width="900" height="680" as="geometry">
+          <mxGeometry x="70" y="180" width="900" height="680" as="geometry">
             <mxRectangle x="120" y="120" width="40" height="50" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -66,7 +66,7 @@
         <mxCell id="UN7oF8r0QxY81td0GTep-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-14" target="UN7oF8r0QxY81td0GTep-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UN7oF8r0QxY81td0GTep-14" value="&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;机器学习筛选关关键&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: 宋体;&quot;&gt;脂质物&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
+        <mxCell id="UN7oF8r0QxY81td0GTep-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;机器学习筛选关关键&lt;/span&gt;&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;脂质物&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
           <mxGeometry x="264" y="30" width="84" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-16" target="UN7oF8r0QxY81td0GTep-19">
@@ -85,7 +85,7 @@
           <mxGeometry x="400" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-13" value="&lt;span style=&quot;font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;机器学习筛选关键代谢物&lt;/font&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="130" y="30" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UN7oF8r0QxY81td0GTep-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="UN7oF8r0QxY81td0GTep-13" target="UN7oF8r0QxY81td0GTep-16">
           <mxGeometry relative="1" as="geometry">
